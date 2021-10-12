@@ -1,2 +1,2 @@
 # Algorithms
-Practicing solving codes
+Practicing solving codes using Python3
